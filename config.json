@@ -190,7 +190,7 @@
 	},
 	"copyright": "Copyright (c) 2015-2024, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright (c) 2016-2020 The Inter Project Authors. Portions Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/). Portions Copyright (c) 2012 Google Inc.",
 	"shsSourceMap": {
-		"defaultRegion": "SourceHanSansSC",
+		"defaultRegion": "SourceHanSans",
 		"region": {
 			"J": "SourceHanSans",
 			"K": "SourceHanSansK",
