@@ -208,8 +208,8 @@
 		"styleMap": {
 			"SemiBold": "Medium"
 		},
-		"classicalRegion": "SC",
-		"classicalOverridePrefix": "ShangguSansSC",
+		"classicalRegion": "CL",
+		"classicalOverridePrefix": "ShangguSansTC",
 		"classicalOverrideSuffixMap": {
 			"ExtraLight": "ExtraLight-subset",
 			"Light": "Light-subset",
