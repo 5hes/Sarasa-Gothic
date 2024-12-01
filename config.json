@@ -1,6 +1,6 @@
 {
 	"buildOptions": {},
-	"familyOrder": ["Gothic", "Ui", "Mono", "MonoSlab", "Term", "TermSlab", "Fixed", "FixedSlab"],
+	"familyOrder": ["Mono"],
 	"families": {
 		"Gothic": {
 			"isGothic": true,
@@ -105,16 +105,7 @@
 		}
 	},
 	"styleOrder": [
-		"ExtraLight",
-		"ExtraLightItalic",
-		"Light",
-		"LightItalic",
-		"Regular",
-		"Italic",
-		"SemiBold",
-		"SemiBoldItalic",
-		"Bold",
-		"BoldItalic"
+		"Regular"
 	],
 	"latinGroups": {
 		"Inter": {
@@ -146,43 +137,11 @@
 		}
 	},
 	"styles": {
-		"ExtraLight": {
-			"name": "ExtraLight"
-		},
-		"ExtraLightItalic": {
-			"name": "ExtraLight Italic",
-			"uprightStyleMap": "ExtraLight"
-		},
-		"Light": {
-			"name": "Light"
-		},
-		"LightItalic": {
-			"name": "Light Italic",
-			"uprightStyleMap": "Light"
-		},
 		"Regular": {
 			"name": "Regular"
-		},
-		"Italic": {
-			"name": "Italic",
-			"uprightStyleMap": "Regular"
-		},
-		"SemiBold": {
-			"name": "SemiBold"
-		},
-		"SemiBoldItalic": {
-			"name": "SemiBold Italic",
-			"uprightStyleMap": "SemiBold"
-		},
-		"Bold": {
-			"name": "Bold"
-		},
-		"BoldItalic": {
-			"name": "Bold Italic",
-			"uprightStyleMap": "Bold"
 		}
 	},
-	"subfamilyOrder": ["CL", "SC", "TC", "HC", "J", "K"],
+	"subfamilyOrder": ["SC"],
 	"os2encodings": {
 		"J": {
 			"gbk": false,
@@ -231,7 +190,7 @@
 	},
 	"copyright": "Copyright (c) 2015-2024, Renzhi Li (aka. Belleve Invis, belleve@typeof.net). Portions Copyright (c) 2016-2020 The Inter Project Authors. Portions Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/). Portions Copyright (c) 2012 Google Inc.",
 	"shsSourceMap": {
-		"defaultRegion": "SourceHanSans",
+		"defaultRegion": "SourceHanSansSC",
 		"region": {
 			"J": "SourceHanSans",
 			"K": "SourceHanSansK",
@@ -249,8 +208,8 @@
 		"styleMap": {
 			"SemiBold": "Medium"
 		},
-		"classicalRegion": "CL",
-		"classicalOverridePrefix": "ShangguSansTC",
+		"classicalRegion": "SC",
+		"classicalOverridePrefix": "ShangguSansSC",
 		"classicalOverrideSuffixMap": {
 			"ExtraLight": "ExtraLight-subset",
 			"Light": "Light-subset",
