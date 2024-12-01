@@ -32,6 +32,7 @@ jobs:
         pwd
         tree
         ls -ltrah
+        npm audit fix
         npm install
         npm run build ttf
         
